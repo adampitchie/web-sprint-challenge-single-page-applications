@@ -141,7 +141,7 @@ export default function PizzaForm() {
           />
         </label>
         <div>
-          <button>Add to Order</button>
+          <button id="submitBtn">Add to Order</button>
         </div>
       </form>
       {
